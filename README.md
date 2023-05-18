@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alison</h1>
-<h3 align="center">A hands-on backend engineer with a user-centric product mindset. Passionate about learning new technologies and utilizing them to deliver solutions in the real business.</h3>
+<h4 align="left">A hands-on backend engineer with a user-centric product mindset. Passionate about learning new technologies and utilizing them to deliver solutions in the real business.</h4>
 
 - 👨‍💻View my latest project "notiFLY" [https://gotolive.online/](https://gotolive.online/)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uGCAAF2ZXieGUzMj42txsdH5gbt0O7hU/view?usp=sharing](https://drive.google.com/file/d/1uGCAAF2ZXieGUzMj42txsdH5gbt0O7hU/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/41Kguz7](https://bit.ly/41Kguz7)
 - 📫 How to reach me **alison.mjchuang@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
