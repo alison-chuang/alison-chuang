@@ -5,7 +5,6 @@
 - 📄 Know about my experiences [https://bit.ly/41Kguz7](https://bit.ly/41Kguz7)
 - 📫 How to reach me **alison.mjchuang@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
