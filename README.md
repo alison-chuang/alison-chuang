@@ -3,7 +3,9 @@
 
 - 👨‍💻View my latest project "notiFLY" [https://gotolive.online/](https://gotolive.online/)
 - 📄 Know about my experiences [https://bit.ly/41Kguz7](https://bit.ly/41Kguz7)
-- 📫 How to reach me **alison.mjchuang@gmail.com**
+- 📫 Reach me at 
+  - **alison.mjchuang@gmail.com**
+  - [Linkedin](https://www.linkedin.com/in/alison-chuang/)
 
 <p align="left">
 </p>
